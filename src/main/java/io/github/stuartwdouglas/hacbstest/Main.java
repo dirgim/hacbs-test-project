@@ -11,7 +11,7 @@ import java.nio.charset.StandardCharsets;
 
 public class Main {
 
-    public static final String HELLO = "Hello World";
+    public static final String HELLO = "Hello All";
 
     public static void main(String... args) throws IOException {
         HttpServer server = HttpServer.create(new InetSocketAddress("0.0.0.0", 8081), 100);
