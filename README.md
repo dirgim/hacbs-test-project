@@ -1,2 +1,2 @@
 # hacbs-test-project
-a project used for testing jvm-build-service
+Test project for Konflux integration testing
