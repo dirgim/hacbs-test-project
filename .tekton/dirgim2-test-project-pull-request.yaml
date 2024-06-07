@@ -340,6 +340,9 @@ spec:
         values:
         - "false"
     - name: sast-snyk-check
+      params:
+      - name: ARGS
+        value: "--report --project-name=konflux-test"
       runAfter:
       - clone-repository
       taskRef:
