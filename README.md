@@ -1,2 +1,2 @@
-# hacbs-test-project
-a project used for testing jvm-build-service
+# konflux-test-project
+A project used for testing integration-service
